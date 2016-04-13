@@ -1,0 +1,230 @@
+# depslib dependency file v1.0
+1458130541 source:/home/timely/Music/future_net/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273100 /home/timely/Music/future_net/route.h
+
+1457322532 /home/timely/Music/future_net/lib/lib_io.h
+
+1457273188 /home/timely/Music/future_net/lib/lib_time.h
+
+1457338188 source:/home/timely/Music/future_net/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458180264 source:/home/timely/Music/future_net/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<iostream>
+
+1457273230 /home/timely/Music/future_net/lib/lib_record.h
+
+1458130541 source:/home/timely/Music/future_net0 (副本)/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1457273100 /home/timely/Music/future_net0 (副本)/route.h
+
+1457322532 /home/timely/Music/future_net0 (副本)/lib/lib_io.h
+
+1457273188 /home/timely/Music/future_net0 (副本)/lib/lib_time.h
+
+1457338188 source:/home/timely/Music/future_net0 (副本)/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458535286 source:/home/timely/Music/future_net1/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458530954 /home/timely/Music/future_net1/route.h
+
+1458530954 /home/timely/Music/future_net1/lib/lib_io.h
+
+1458530954 /home/timely/Music/future_net1/lib/lib_time.h
+
+1458530954 source:/home/timely/Music/future_net1/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458537011 source:/home/timely/Music/future_net1/route.cpp
+	"route.h"
+	"lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1458530954 /home/timely/Music/future_net1/lib/lib_record.h
+
+1458534255 source:/run/media/timely/0000-4823/future_net1/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458530954 /run/media/timely/0000-4823/future_net1/route.h
+
+1458530954 /run/media/timely/0000-4823/future_net1/lib/lib_io.h
+
+1458530954 /run/media/timely/0000-4823/future_net1/lib/lib_time.h
+
+1458530954 source:/run/media/timely/0000-4823/future_net1/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458534274 source:/run/media/timely/0000-4823/future_net1/route.cpp
+	"route.h"
+	"lib/lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+
+1458530954 /run/media/timely/0000-4823/future_net1/lib/lib_record.h
+
+1458530954 /home/timely/Music/future_net1/lib_record.h
+
+1458645015 source:/home/timely/Music/future_net2/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458530954 /home/timely/Music/future_net2/route.h
+
+1458530954 /home/timely/Music/future_net2/lib/lib_io.h
+
+1458530954 /home/timely/Music/future_net2/lib/lib_time.h
+
+1458554637 source:/home/timely/Music/future_net2/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458692933 source:/home/timely/Music/future_net2/route.cpp
+	"route.h"
+	"lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<iostream>
+
+1458530954 /home/timely/Music/future_net2/lib_record.h
+
+1458744012 source:/home/timely/Music/future_net3/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458530954 /home/timely/Music/future_net3/route.h
+
+1458530954 /home/timely/Music/future_net3/lib/lib_io.h
+
+1458530954 /home/timely/Music/future_net3/lib/lib_time.h
+
+1458554637 source:/home/timely/Music/future_net3/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1458987506 source:/home/timely/Music/future_net3/route.cpp
+	"route.h"
+	"lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/timeb.h>
+	<vector>
+	<iostream>
+
+1458530954 /home/timely/Music/future_net3/lib_record.h
+
+1460529677 source:/home/timely/Documents/GitHub/future_net/future_net.cpp
+	"route.h"
+	"lib/lib_io.h"
+	"lib/lib_time.h"
+	"stdio.h"
+
+1458530954 /home/timely/Documents/GitHub/future_net/route.h
+
+1458530954 /home/timely/Documents/GitHub/future_net/lib/lib_io.h
+
+1458530954 /home/timely/Documents/GitHub/future_net/lib/lib_time.h
+
+1458554637 source:/home/timely/Documents/GitHub/future_net/io.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<time.h>
+	<sys/timeb.h>
+	<errno.h>
+	<unistd.h>
+	<signal.h>
+
+1460529914 source:/home/timely/Documents/GitHub/future_net/route.cpp
+	"route.h"
+	"lib_record.h"
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<sys/timeb.h>
+	<vector>
+	<iostream>
+
+1458530954 /home/timely/Documents/GitHub/future_net/lib_record.h
+
