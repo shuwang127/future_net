@@ -1,2 +1,2 @@
 # future_net
-2016 HUAWEI Code Craft Challenge
+2016 Code Craft Challenge
